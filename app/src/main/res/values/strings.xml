@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cooking up</string>
+    <string name="search_title">Search</string>
+    <string name="garnish">Гирниры</string>
+    <string name="soup">Супы</string>
+    <string name="salad">Салаты</string>
+    <string name="dessert">Дисерты</string>
+
+</resources>

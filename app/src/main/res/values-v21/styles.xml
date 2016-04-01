@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppYellow" parent="AppTheme">
+        <item name="colorPrimary">#ffa200</item>
+        <item name="colorPrimaryDark">#ff7b00</item>
+        <item name="colorControlNormal">@color/colorWhite</item>
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
